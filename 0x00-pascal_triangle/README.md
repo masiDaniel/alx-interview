@@ -1,0 +1,1 @@
+this is the alx interview pascal triangle directory
